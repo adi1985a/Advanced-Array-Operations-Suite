@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1678216984 source:c:\users\hp\desktop\portfolio programy na github\c++\programs\math tasks - study assignment\main.cpp
+	<conio.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1742169498 source:f:\my portafolio it ulepszona\c++\programs\math tasks - study assignment\main.cpp
+	<conio.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<fstream>
+	"utils.h"
+
+1742169496 f:\my portafolio it ulepszona\c++\programs\math tasks - study assignment\utils.h
+	<windows.h>
+	<string>
+
