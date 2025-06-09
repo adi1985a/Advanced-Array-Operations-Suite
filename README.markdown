@@ -1,4 +1,4 @@
-# 🔢🔬 ArrayMaster Pro: Advanced Array Operations Suite 📊
+# 🔢🔬📊 ArrayMaster Pro: Advanced Array Operations Suite 
 _A C++ console application for performing diverse mathematical and statistical operations on arrays, featuring a task-driven menu and colorful UI._
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
