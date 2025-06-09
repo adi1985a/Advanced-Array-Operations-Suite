@@ -22,6 +22,8 @@ _A C++ console application for performing diverse mathematical and statistical o
 
 **ArrayMaster Pro**, created by Adrian Lesniak, is a comprehensive C++ console application designed to execute a variety of mathematical and analytical operations on integer arrays. The program is structured around specific tasks, allowing users to: sum positive elements and average negative ones; find minimum elements and their frequencies; search for occurrences of a random number; calculate standard deviation; and analyze the distribution of 2D points across coordinate quadrants. It features a clear, menu-driven interface with colorful output (enhanced on Windows via the user-provided `utils.h` header) to guide the user through each operation.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features & Tasks
 
 The application is organized into distinct tasks, each performing specific array operations:
@@ -49,9 +51,21 @@ The application is organized into distinct tasks, each performing specific array
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
 
-_This section will be updated with screenshots showcasing the main menu, input prompts for various tasks, and example outputs for each analytical function._
+_Screenshots showcasing the main menu, input prompts for various tasks, and example outputs for each analytical function._
+
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
